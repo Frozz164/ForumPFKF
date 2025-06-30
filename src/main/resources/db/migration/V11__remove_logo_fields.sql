@@ -1,0 +1,1 @@
+ALTER TABLE charities DROP COLUMN IF EXISTS logo_url; 
